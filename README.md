@@ -97,7 +97,7 @@ Where your password will be a repo and packages scoped github personal access to
 As mentioned above when "private" field in a package.json is missing or setted to false lerna will try to publish your package on a registry.
 If it is so and there is no configuration related to the registry url, lerna will try to publish it in the npm public registry by default.
 
-This could be an unwanted behavior! ![scream_cat](https://github.githubassets.com/images/icons/emoji/unicode/1f640.png =48x48)
+This could be an unwanted behavior! :scream_cat:
 
 If you don't want to publish any package then consider using one of these two commands for the project release:
 
