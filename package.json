@@ -1,0 +1,12 @@
+{
+  "name": "lerna-semantic-versioning-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alecap7/lerna-semantic-versioning-example.git",
+  "author": "Alessandro Capogna <alessandro.capogna.1992@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
