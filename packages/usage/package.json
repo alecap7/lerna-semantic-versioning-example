@@ -1,0 +1,12 @@
+{
+  "name": "@alecap7/usage",
+  "version": "0.0.0",
+  "repository": "git@github.com:alecap7/lerna-semantic-versioning-example.git",
+  "dependencies": {
+    "@alecap7/alpha": "^0.0.0",
+    "@alecap7/beta": "^0.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
