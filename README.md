@@ -1,5 +1,7 @@
 # lerna-semantic-versioning-example
 
+> Also available on [devto](https://dev.to/alecap7/lerna-semantic-versioning-simple-project-setup-2k2i)
+
 This document contains a step by step guide to implement a minimal example to test how **lerna - semantic versioning** works.
 
 Inspired by this [blog post](https://michaljanaszek.com/blog/lerna-conventional-commits/).
